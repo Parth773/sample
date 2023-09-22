@@ -5,6 +5,12 @@
       "Asset name": "DEF",
       "Date": "2020-01-01",
       "Value": 10000
+    },
+    {
+      "id": 2,
+      "Asset name": "DEF",
+      "Date": "2020-01-02",
+      "Value": 20000
     }
   ]
 }
