@@ -8,9 +8,15 @@
     },
     {
       "id": 2,
-      "Asset name": "ABC",
+      "Asset name": "DEF",
       "Date": "2020-01-02",
-      "Value": 120000
+      "Value": 150000
+    },
+    {
+      "id": 3,
+      "Asset name": "GHI",
+      "Date": "2024-01-05",
+      "Value": 200000
     }
   ]
 }
